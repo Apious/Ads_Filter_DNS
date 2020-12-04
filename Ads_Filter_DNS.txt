@@ -1,4 +1,4 @@
-! - AdGuard DNS for Android
+[ AdGuard DNS for Android ]
 ! DNS만 해당되며 콘텐츠와 좀 다릅니다
 ! 앱 버전 히스토리 : https://adguard.com/ko/versions/android/nightly.html
 ! Update by Apious
