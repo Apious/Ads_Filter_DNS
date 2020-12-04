@@ -1,10 +1,10 @@
 [ AdGuard DNS for Android ]
-! DNS만 해당되며 콘텐츠와 좀 다릅니다
-! 앱 버전 히스토리 : https://adguard.com/ko/versions/android/nightly.html
+! Only DNS Filter
+! App Update History : https://adguard.com/ko/versions/android/nightly.html
 ! Update by Apious
-! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! 버전 : Nightly 4.0.48
-! 업데이트 : 201204
+! Request : https://github.com/Apious/Ads_Filter_Contents/issues
+! Version : Nightly 4.0.48
+! Update : 201204
 
 ||web.acuvue.co.kr^
 ||tvetamovie.pstatic.net^
