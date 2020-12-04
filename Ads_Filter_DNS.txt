@@ -1,5 +1,5 @@
 [ AdGuard DNS for Android ]
-! DNS만 해당됩니다
+! DNS만 해당되며 콘텐츠와 좀 다릅니다
 ! 앱 버전 히스토리 : https://adguard.com/ko/versions/android/nightly.html
 ! Update by Apious
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
@@ -11,6 +11,8 @@
 ||tivan.naver.com^
 ||static.mplad.ahnlab.com^
 ||sspi.adpopcorn.com^
+||ssl.pstatic.net^$image,domain=m.naver.com
+||ssl.pstatic.net/tveta^$domain=m.comic.naver.com|m.cafe.naver.com
 ||soda-api.snow.me^
 ||smrmembers-smr.smartmediarep.com^
 ||siape.veta.naver.com^
@@ -26,6 +28,7 @@
 ||crab.baidu.com^
 ||cdn.tmap.co.kr^
 ||booking-loco.kakao.com^
+||bit.ly^$app=com.skt.tmap.ku
 ||app.link^
 ||api-es.doglobal.net^
 ||adx.adcrony.co.kr^
