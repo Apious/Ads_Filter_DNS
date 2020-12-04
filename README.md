@@ -1,7 +1,7 @@
 # Ads_Filter_DNS
 DNS만 해당 됩니다.
 
-이전 개별 적용하던 형식이 아닌 항목 리스트로 추가 했습니다
+이전 개별 적용하던 형식이 아닌 항목 리스트로 추가 했습니다.
 https://github.com/Apious/AdGuard_Settings 종속되서 DNS에 추가 반영 됩니다
 
 1. 요청, 제보, 건의 등은 [Issues] 에서 신청하세요. / https://github.com/Apious/Ads_Filter_DNS/issues
