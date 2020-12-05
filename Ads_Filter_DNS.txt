@@ -67,6 +67,11 @@
 ||*.ad.kakaocorp.com^
 ||*.ad.kakao.com^
 ||*.ad.daum.net^
+
+! - 캐치딜 앱 예외 적용
+@@||onesignal.com^
+@@||api.onesignal.com^
+! - 기타
 @@||insights-collector.newrelic.com^
 @@||syndication.realsrv.com^
 @@||report.appmetrica.yandex.net^
