@@ -4,15 +4,14 @@
 ! Update by Apious
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
 ! 버전 : Nightly 4.0.48
-! 업데이트 : 201205
+! 업데이트 : 201207
 
+||ssl.pstatic.net^$domain=m.naver.com|m.comic.naver.com
 ||web.acuvue.co.kr^
 ||tvetamovie.pstatic.net^
 ||tivan.naver.com^
 ||static.mplad.ahnlab.com^
 ||sspi.adpopcorn.com^
-||ssl.pstatic.net^$image,domain=m.naver.com
-||ssl.pstatic.net/tveta^$domain=m.comic.naver.com|m.cafe.naver.com
 ||soda-api.snow.me^
 ||smrmembers-smr.smartmediarep.com^
 ||siape.veta.naver.com^
@@ -68,9 +67,6 @@
 ||*.ad.kakao.com^
 ||*.ad.daum.net^
 
-! - 캐치딜 앱 예외 적용
-@@||onesignal.com^
-@@||api.onesignal.com^
 ! - 기타
 @@||insights-collector.newrelic.com^
 @@||syndication.realsrv.com^
