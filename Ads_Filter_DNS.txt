@@ -71,6 +71,8 @@
 ||*.ad.daum.net^
 
 ! - 네이버 모바일
+@@||ssl.pstatic.net^$domain=m.tv.naver.com
+@@||ssl.pstatic.net^$domain=m.search.naver.com^
 @@||lcs.naver.com^
 @@||l.m.naver.com^
 @@||sp.naver.com^
