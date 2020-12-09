@@ -1,11 +1,10 @@
 [ AdGuard DNS for Android ]
 ! DNS만 해당되며 콘텐츠와 좀 다릅니다
-! 앱 버전 히스토리 : https://adguard.com/ko/versions/android/nightly.html
 ! Update by Apious
-! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! 버전 : Nightly 4.0.48
-! 업데이트 : 201209
-
+! Title: Ads_Filter_DNS
+! Homepage: https://apious.tistory.com/
+! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
+! Version: 201209
 
 ||naverpa-phinf.pstatic.net^
 ||ssl.pstatic.net^
