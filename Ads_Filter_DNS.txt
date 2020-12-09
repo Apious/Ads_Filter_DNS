@@ -6,17 +6,23 @@
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
 ! Version: 201209
 
+! - 네이버 모바일 관련
+||adlog.shopping.naver.com^
+||ad.*.naver.com^
+||*.tivan.naver.com^
+||tivan.naver.com^
+||siape.veta.naver.com^
+||*.ad.naver.com^
 ||naverpa-phinf.pstatic.net^
 ||ssl.pstatic.net^
+||tvetamovie.pstatic.net^
+! - 기타
 ||sdk-bid.exelbid.com^
 ||web.acuvue.co.kr^
-||tvetamovie.pstatic.net^
-||tivan.naver.com^
 ||static.mplad.ahnlab.com^
 ||sspi.adpopcorn.com^
 ||soda-api.snow.me^
 ||smrmembers-smr.smartmediarep.com^
-||siape.veta.naver.com^
 ||s.ppomppu.co.kr^
 ||m.health.chosun.com^
 ||log.snow.me^
@@ -39,17 +45,14 @@
 ||adservice.google.com^
 ||adserver.rockwell.kakao.com^
 ||ads.mncmedia.co.kr^
-||adlog.shopping.naver.com^
 ||adimg.daumcdn.net^
 ||ad89.z00.kr^
 ||ad.phaserep.com^
 ||ad.mediafarm.co.kr^
 ||ad.mapy.co.kr^
 ||ad.adjw.co.kr^
-||ad.*.naver.com^
 ||ad-global-rule.kajicam.com^
 ||a1.asiae.co.kr^
-||*.tivan.naver.com^
 ||*.snow.me.akadns.net^
 ||*.site3.co.kr^
 ||*.newsmobile.co.kr^
@@ -63,23 +66,21 @@
 ||*.estrongs.com^
 ||*.ctobsnssdk.com^
 ||*.catad5959.com^
-||*.ad.naver.com^
 ||*.ad.kakaocorp.com^
 ||*.ad.kakao.com^
 ||*.ad.daum.net^
 
 ! - 네이버 모바일
-
+@@||lcs.naver.com^
+@@||l.m.naver.com^
+@@||sp.naver.com^
 ! - 기타
 @@||insights-collector.newrelic.com^
 @@||syndication.realsrv.com^
 @@||report.appmetrica.yandex.net^
 @@||outcome-ssp.supersonicads.com^
 @@||videostats.kakao.com^
-@@||sp.naver.com^
 @@||s2s.singular.net^
-@@||lcs.naver.com^
-@@||l.m.naver.com^
 @@||data.flurry.com^
 @@||beacons.gcp.gvt2.com^
 @@||*.yomovies.it^
