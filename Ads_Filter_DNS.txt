@@ -7,15 +7,15 @@
 ! Version: 201209
 
 ! - 네이버 모바일 관련
-||s.pstatic.net/static/www/mobile/*$image
 ||ssl.pstatic.net^
 ||tvetamovie.pstatic.net^
 ||naverpa-phinf.pstatic.net^
-||m.naver.com##.ccb_banner
 ||adlog.shopping.naver.com^
 ||*.tivan.naver.com^
 ||tivan.naver.com^
 ||siape.veta.naver.com^
+||smrmembers-smr.smartmediarep.com^
+||app.link^
 ||*.ad.naver.com^
 ||ad.*.naver.com^
 
@@ -25,7 +25,6 @@
 ||static.mplad.ahnlab.com^
 ||sspi.adpopcorn.com^
 ||soda-api.snow.me^
-||smrmembers-smr.smartmediarep.com^
 ||s.ppomppu.co.kr^
 ||m.health.chosun.com^
 ||log.snow.me^
@@ -39,7 +38,6 @@
 ||cdn.tmap.co.kr^
 ||booking-loco.kakao.com^
 ||bit.ly^$app=com.skt.tmap.ku
-||app.link^
 ||api-es.doglobal.net^
 ||adx.adcrony.co.kr^
 ||adx-exchange.toast.com^
