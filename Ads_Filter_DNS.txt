@@ -70,7 +70,6 @@
 ||*.ad.daum.net^
 
 ! - 네이버 모바일
-@@||
 
 ! - 기타
 @@||insights-collector.newrelic.com^
