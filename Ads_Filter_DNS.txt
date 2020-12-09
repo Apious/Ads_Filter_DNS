@@ -8,6 +8,7 @@
 
 ||ssl.pstatic.net^$domain=m.naver.com
 ||ssl.pstatic.net^$domain=m.comic.naver.com
+||sdk-bid.exelbid.com^
 ||web.acuvue.co.kr^
 ||tvetamovie.pstatic.net^
 ||tivan.naver.com^
