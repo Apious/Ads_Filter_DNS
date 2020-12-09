@@ -7,15 +7,18 @@
 ! Version: 201209
 
 ! - 네이버 모바일 관련
+||s.pstatic.net/static/www/mobile/*$image
+||ssl.pstatic.net^
+||tvetamovie.pstatic.net^
+||naverpa-phinf.pstatic.net^
+||m.naver.com##.ccb_banner
 ||adlog.shopping.naver.com^
-||ad.*.naver.com^
 ||*.tivan.naver.com^
 ||tivan.naver.com^
 ||siape.veta.naver.com^
 ||*.ad.naver.com^
-||naverpa-phinf.pstatic.net^
-||ssl.pstatic.net^
-||tvetamovie.pstatic.net^
+||ad.*.naver.com^
+
 ! - 기타
 ||sdk-bid.exelbid.com^
 ||web.acuvue.co.kr^
@@ -136,6 +139,7 @@
 @@||ssl.pstatic.net^$domain=vlive.tv^
 @@||ssl.pstatic.net^$domain=weather.naver.com^
 @@||ssl.pstatic.net^$domain=whale.naver.com^
+
 ! - 기타
 @@||insights-collector.newrelic.com^
 @@||syndication.realsrv.com^
