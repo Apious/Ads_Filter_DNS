@@ -6,7 +6,8 @@
 ! 버전 : Nightly 4.0.48
 ! 업데이트 : 201207
 
-||ssl.pstatic.net^$domain=m.naver.com|m.comic.naver.com
+||ssl.pstatic.net^$domain=m.naver.com
+||ssl.pstatic.net^$domain=m.comic.naver.com
 ||web.acuvue.co.kr^
 ||tvetamovie.pstatic.net^
 ||tivan.naver.com^
