@@ -75,6 +75,7 @@
 @@||lcs.naver.com^
 @@||l.m.naver.com^
 @@||sp.naver.com^
+@@||*.nil.naver.com^
 @@||ssl.pstatic.net^$domain=audioclip.naver.com^
 @@||ssl.pstatic.net^$domain=book.naver.com^
 @@||ssl.pstatic.net^$domain=creator-advisor.naver.com^
