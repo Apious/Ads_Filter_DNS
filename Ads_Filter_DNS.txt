@@ -140,6 +140,7 @@
 @@||ssl.pstatic.net^$domain=whale.naver.com^
 
 ! - 기타
+@@||rawdata.kr^
 @@||*.president.go.kr^
 @@||insights-collector.newrelic.com^
 @@||syndication.realsrv.com^
