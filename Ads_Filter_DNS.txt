@@ -4,10 +4,11 @@
 ! Update by Apious
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
 ! 버전 : Nightly 4.0.48
-! 업데이트 : 201207
+! 업데이트 : 201209
 
-||ssl.pstatic.net^$domain=m.naver.com
-||ssl.pstatic.net^$domain=m.comic.naver.com
+
+||naverpa-phinf.pstatic.net^
+||ssl.pstatic.net^
 ||sdk-bid.exelbid.com^
 ||web.acuvue.co.kr^
 ||tvetamovie.pstatic.net^
@@ -68,6 +69,9 @@
 ||*.ad.kakaocorp.com^
 ||*.ad.kakao.com^
 ||*.ad.daum.net^
+
+! - 네이버 모바일
+@@||
 
 ! - 기타
 @@||insights-collector.newrelic.com^
