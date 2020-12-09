@@ -42,7 +42,6 @@
 ||ads.mncmedia.co.kr^
 ||adlog.shopping.naver.com^
 ||adimg.daumcdn.net^
-||adcr.naver.com^
 ||ad89.z00.kr^
 ||ad.phaserep.com^
 ||ad.mediafarm.co.kr^
