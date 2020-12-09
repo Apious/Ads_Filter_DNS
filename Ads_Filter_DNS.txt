@@ -119,7 +119,6 @@
 @@||ssl.pstatic.net^$domain=m.stock.naver.com^
 @@||ssl.pstatic.net^$domain=m.terms.naver.com^
 @@||ssl.pstatic.net^$domain=m.tv.naver.com^
-@@||ssl.pstatic.net^$domain=m.tv.naver.com^^
 @@||ssl.pstatic.net^$domain=m-grafolio.naver.com^
 @@||ssl.pstatic.net^$domain=modoo.at^
 @@||ssl.pstatic.net^$domain=m-tour.store.naver.com^
