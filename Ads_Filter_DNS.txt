@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 201209
+! Version: 201210
 
 ! - 네이버 모바일 관련
 ||ssl.pstatic.net^
