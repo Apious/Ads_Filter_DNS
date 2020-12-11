@@ -4,9 +4,11 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 201211
+! Version: 201212
 
 ! - 네이버 모바일 관련
+||event.impression-neo.naver.com^
+||adcr.naver.com^
 ||tvetamovie.pstatic.net^
 ||naverpa-phinf.pstatic.net^
 ||adlog.shopping.naver.com^
