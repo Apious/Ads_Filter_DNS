@@ -7,7 +7,6 @@
 ! Version: 201211
 
 ! - 네이버 모바일 관련
-||ssl.pstatic.net^
 ||tvetamovie.pstatic.net^
 ||naverpa-phinf.pstatic.net^
 ||adlog.shopping.naver.com^
