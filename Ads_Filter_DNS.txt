@@ -21,6 +21,7 @@
 ||ad.*.naver.com^
 
 ! - 기타
+||macarong.page.link^
 ||sdk-bid.exelbid.com^
 ||web.acuvue.co.kr^
 ||static.mplad.ahnlab.com^
