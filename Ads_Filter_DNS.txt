@@ -21,6 +21,9 @@
 ||ad.*.naver.com^
 
 ! - 기타
+||sell.chutcha.net^
+||payload.adadapted.com^
+||ads.adadapted.com^
 ||macarong.page.link^
 ||sdk-bid.exelbid.com^
 ||web.acuvue.co.kr^
