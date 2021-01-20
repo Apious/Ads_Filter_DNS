@@ -21,6 +21,7 @@
 ||ad.*.naver.com^
 
 ! - 기타
+||external.impression-neo.naver.com
 ||sell.chutcha.net^
 ||payload.adadapted.com^
 ||ads.adadapted.com^
