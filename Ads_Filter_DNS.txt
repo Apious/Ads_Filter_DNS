@@ -21,6 +21,7 @@
 ||ad.*.naver.com^
 
 ! - 기타
+||encrypted-tbn1.gstatic.com^
 ||api.todayshift.com^
 ||www.googletagservices.com^
 ||fonts.googleapis.com^
