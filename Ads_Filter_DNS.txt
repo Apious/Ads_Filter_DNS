@@ -23,6 +23,7 @@
 ! - 기타
 ||www.googletagservices.com^
 ||fonts.googleapis.com^
+||www.gstatic.com^
 ||sell.chutcha.net^
 ||payload.adadapted.com^
 ||ads.adadapted.com^
