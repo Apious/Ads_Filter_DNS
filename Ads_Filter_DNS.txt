@@ -21,9 +21,9 @@
 ||ad.*.naver.com^
 
 ! - 기타
-||*.googletagservices.com^
-||*.googleapis.com^
-||*.gstatic.com^
+||www.googletagservices.com^
+||fonts.googleapis.com^
+||www.gstatic.com^
 ||sell.chutcha.net^
 ||payload.adadapted.com^
 ||ads.adadapted.com^
