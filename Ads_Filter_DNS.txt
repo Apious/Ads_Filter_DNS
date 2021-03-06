@@ -6,6 +6,16 @@
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
 ! Version: 210307
 
+! - 곰플레이어
+||*.buzzvil.com^
+||*.ipstatp.com^
+||onesoft.com.vn^
+||*.byteoversea.com^
+||onesoft.com.vn^
+||*.mopub.com^
+||*.ibytedtos.com^
+||api.*.avatye.com^
+
 ! - 네이버 모바일 관련
 ||*.impression-neo.naver.com
 ||adcr.naver.com^
