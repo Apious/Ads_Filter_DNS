@@ -53,7 +53,6 @@
 ||cyad1.nate.com^
 ||cwstatic.asiae.co.kr^
 ||crab.baidu.com^
-||cdn.tmap.co.kr^
 ||booking-loco.kakao.com^
 ||bit.ly^$app=com.skt.tmap.ku
 ||api-es.doglobal.net^
