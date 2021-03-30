@@ -108,6 +108,7 @@
 @@||nid.naver.com^
 
 ! - 기타
+@@||inapps.appsflyer.com^
 @@||static.criteo.net^
 @@||rawdata.kr^
 @@||*.president.go.kr^
