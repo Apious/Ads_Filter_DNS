@@ -108,6 +108,7 @@
 @@||nid.naver.com^
 
 ! - 기타
+@@||www.google-analytics.com^
 @@||inapps.appsflyer.com^
 @@||static.criteo.net^
 @@||rawdata.kr^
