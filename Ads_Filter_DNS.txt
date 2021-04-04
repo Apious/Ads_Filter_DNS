@@ -47,8 +47,6 @@
 ||encrypted-tbn1.gstatic.com^
 ||ade.googlesyndication.com^
 ||www.googleadservices.com^
-||www.googletagservices.com^
-||fonts.googleapis.com^
 ||sell.chutcha.net^
 ||payload.adadapted.com^
 ||ads.adadapted.com^
