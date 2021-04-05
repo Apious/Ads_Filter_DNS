@@ -7,11 +7,21 @@
 ! Version: 210405
 
 ! - Samsung Default Apps
+||adcheck.about.co.kr^
+||adconsent.samsungrs.com^
+||adconsent.samsungrs.com^
+||adlc-exchange.toast.com^
+||analytics.samsungknox.com^
+||api.glb.samsung-gamelauncher.com^
 ||banner.samsungmembers.com^
-||kr-cdn-gpp.mcsvc.samsung.com^
 ||content.samsungknowledge.com^
-||insights-img.samsunghealth.com^
+||d220qi8egj41zq.cloudfront.net^
+||d3vu4amagmd4v3.cloudfront.net^
 ||insight.samsunghealth.com^
+||insights-img.samsunghealth.com^
+||kr-cdn-gpp.mcsvc.samsung.com^
+||open.e.kuaishou.com^
+||ureca.samsungapps.com^
 
 ! - Tmap
 ||starvoice.tmap.co.kr^
