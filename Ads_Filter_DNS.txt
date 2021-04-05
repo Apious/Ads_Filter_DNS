@@ -7,7 +7,6 @@
 ! Version: 210405
 
 ! - Samsung Default Apps
-||adcheck.about.co.kr^
 ||adconsent.samsungrs.com^
 ||adconsent.samsungrs.com^
 ||adlc-exchange.toast.com^
@@ -20,7 +19,6 @@
 ||insight.samsunghealth.com^
 ||insights-img.samsunghealth.com^
 ||kr-cdn-gpp.mcsvc.samsung.com^
-||open.e.kuaishou.com^
 ||ureca.samsungapps.com^
 
 ! - Tmap
@@ -54,6 +52,8 @@
 ||ad.*.naver.com^
 
 ! - 기타
+||adcheck.about.co.kr^
+||open.e.kuaishou.com^
 ||encrypted-tbn1.gstatic.com^
 ||ade.googlesyndication.com^
 ||www.googleadservices.com^
@@ -104,6 +104,7 @@
 ||*.estrongs.com^
 ||*.ctobsnssdk.com^
 ||*.catad5959.com^
+||*.cauly.co.kr
 ||*.ad.kakaocorp.com^
 ||*.ad.kakao.com^
 ||*.ad.daum.net^
