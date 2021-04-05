@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 210327
+! Version: 210405
 
 ! - Samsung Default Apps
 ||banner.samsungmembers.com^
