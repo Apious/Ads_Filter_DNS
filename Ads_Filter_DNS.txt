@@ -118,5 +118,4 @@
 @@||data.flurry.com^
 @@||beacons.gcp.gvt2.com^
 @@||*.yomovies.it^
-@@||*.tiara.daum.net^
 @@||*.amazonaws.com^
