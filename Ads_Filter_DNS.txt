@@ -4,7 +4,12 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 210405
+! Version: 210425
+
+! - AfreecaTV
+||item.m.afreecatv.com^
+||delog.afreecatv.com^
+||ppv.afreecatv.com^
 
 ! - Samsung Default Apps
 ||adconsent.samsungrs.com^
