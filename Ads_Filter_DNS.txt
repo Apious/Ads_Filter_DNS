@@ -4,7 +4,11 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 210425
+! Version: 210427
+
+! - Macarong app
+||macarong.page.link^
+@@||inapps.appsflyer.com^
 
 ! - AfreecaTV
 ||item.m.afreecatv.com^
@@ -65,7 +69,6 @@
 ||sell.chutcha.net^
 ||payload.adadapted.com^
 ||ads.adadapted.com^
-||macarong.page.link^
 ||sdk-bid.exelbid.com^
 ||web.acuvue.co.kr^
 ||static.mplad.ahnlab.com^
