@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 210427
+! Version: 210510
 
 ! - Macarong app
 ||macarong.page.link^
@@ -43,7 +43,6 @@
 ||*.byteoversea.com^
 ||onesoft.com.vn^
 ||*.mopub.com^
-||*.ibytedtos.com^
 ||api.*.avatye.com^
 
 ! - 네이버 모바일 관련
