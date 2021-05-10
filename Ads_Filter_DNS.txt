@@ -38,7 +38,6 @@
 
 ! - 곰플레이어
 ||*.buzzvil.com^
-||*.ipstatp.com^
 ||onesoft.com.vn^
 ||*.byteoversea.com^
 ||onesoft.com.vn^
