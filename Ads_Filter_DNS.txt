@@ -4,7 +4,10 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 210510
+! Version: 210512
+
+! - Google ads
+||www.googleadservices.com^
 
 ! - Macarong app
 ||macarong.page.link^
