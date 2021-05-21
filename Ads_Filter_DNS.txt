@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 210512
+! Version: 210521
 
 ! - Google ads
 ||www.googleadservices.com^
@@ -38,6 +38,7 @@
 ||dbp.sktelecom.com^
 ||bit.ly^$app=com.skt.tmap.ku
 ||kialant.com^
+||cdn.tmap.co.kr^
 
 ! - 곰플레이어
 ||*.buzzvil.com^
