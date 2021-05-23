@@ -4,10 +4,54 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 210521
+! Version: 210524
+
+! - Kakao
+||booking-loco.kakao.com^
+||adserver.rockwell.kakao.com^
+||ad.kakao.com^
+||adfit.kakao.com^
+||daumkakao-smr.smartmediarep.com^
+||*.ad.kakaocorp.com^
+||*.ad.kakao.com^
+||vads-api.daumkakao.com^
+
+! - Daum
+||*.ad.daum.net^
+||vads-api.ad.daum.net^
+||analytics.ad.daum.net^
+||adimg.daumcdn.net^
+||adclixad.daum.net^
+||adclix.daum.net^
+||ad.daum.net^
 
 ! - Google ads
+||imageads4.googleadservices.com^
+||imageads5.googleadservices.com^
+||imageads2.googleadservices.com^
+||imageads3.googleadservices.com^
+||imageads8.googleadservices.com^
+||imageads9.googleadservices.com^
+||imageads6.googleadservices.com^
+||imageads7.googleadservices.com^
+||imageads1.googleadservices.com^
+||ads.google.com^
+||adservices.google.com^
+||googleadservices.com^
+||pagead.l.google.com^
+||partnerad.l.google.com^
 ||www.googleadservices.com^
+||www.googleadservices.com^
+||www.googletagmanager.com^
+||www.googletagservices.com^
+||pagead2.googlesyndication.com^
+||imageads.googleadservices.com^
+||googleads2.g.doubleclick.net^
+||partner.googleadservices.com^
+||feedads.googleadservices.com^
+||pagead.googlesyndication.com^
+||pagead2.googleadservices.com^
+||googleads.g.doubleclick.net^
 
 ! - Macarong app
 ||macarong.page.link^
@@ -84,14 +128,12 @@
 ||cyad1.nate.com^
 ||cwstatic.asiae.co.kr^
 ||crab.baidu.com^
-||booking-loco.kakao.com^
 ||api-es.doglobal.net^
 ||adx.adcrony.co.kr^
 ||adx-exchange.toast.com^
 ||adv.zdnet.co.kr^
 ||adv.imadrep.co.kr^
 ||adservice.google.com^
-||adserver.rockwell.kakao.com^
 ||ads.mncmedia.co.kr^
 ||adimg.daumcdn.net^
 ||ad89.z00.kr^
@@ -115,9 +157,6 @@
 ||*.ctobsnssdk.com^
 ||*.catad5959.com^
 ||*.cauly.co.kr
-||*.ad.kakaocorp.com^
-||*.ad.kakao.com^
-||*.ad.daum.net^
 
 ! - 네이버 모바일
 @@||lcs.naver.com^
