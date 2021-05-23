@@ -6,7 +6,7 @@
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
 ! Version: 210524
 
-! - Kakao
+! - Kakao, Daum
 ||booking-loco.kakao.com^
 ||adserver.rockwell.kakao.com^
 ||ad.kakao.com^
@@ -15,8 +15,6 @@
 ||*.ad.kakaocorp.com^
 ||*.ad.kakao.com^
 ||vads-api.daumkakao.com^
-
-! - Daum
 ||*.ad.daum.net^
 ||vads-api.ad.daum.net^
 ||analytics.ad.daum.net^
@@ -26,32 +24,40 @@
 ||ad.daum.net^
 
 ! - Google ads
-||imageads4.googleadservices.com^
-||imageads5.googleadservices.com^
-||imageads2.googleadservices.com^
-||imageads3.googleadservices.com^
-||imageads8.googleadservices.com^
-||imageads9.googleadservices.com^
-||imageads6.googleadservices.com^
-||imageads7.googleadservices.com^
-||imageads1.googleadservices.com^
 ||ads.google.com^
+||adservice.google.co.kr^
+||adservice.google.com.tw^
+||adservice.google.com^
+||adservice.google.tw^
 ||adservices.google.com^
+||doubleclick.net^
+||feedads.googleadservices.com^
+||google-analytics.com^
+||googleads.g.doubleclick.net^
+||googleads2.g.doubleclick.net^
 ||googleadservices.com^
-||pagead.l.google.com^
-||partnerad.l.google.com^
-||www.googleadservices.com^
+||googletagmanager.com^
+||googletagservices.com^
 ||www.googleadservices.com^
 ||www.googletagmanager.com^
 ||www.googletagservices.com^
-||pagead2.googlesyndication.com^
 ||imageads.googleadservices.com^
-||googleads2.g.doubleclick.net^
-||partner.googleadservices.com^
-||feedads.googleadservices.com^
+||imageads1.googleadservices.com^
+||imageads2.googleadservices.com^
+||imageads3.googleadservices.com^
+||imageads4.googleadservices.com^
+||imageads5.googleadservices.com^
+||imageads6.googleadservices.com^
+||imageads7.googleadservices.com^
+||imageads8.googleadservices.com^
+||imageads9.googleadservices.com^
 ||pagead.googlesyndication.com^
+||pagead.l.google.com^
 ||pagead2.googleadservices.com^
-||googleads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+||partner.googleadservices.com^
+||partnerad.l.google.com^
+||partnerssl.googleadservices.com^
 
 ! - Macarong app
 ||macarong.page.link^
