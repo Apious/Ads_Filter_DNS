@@ -4,9 +4,22 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 210524
+! Version: 210528
+
+! - Snow, Soda Camera
+! - @@||b6s-api.snow.me^
+||lan3rd.line.me^
+||*.kajicam.com^
+||soda-api.snow.me^
+||log.snow.me^
+! - ||*.snow.me.akadns.net^
+||s.ppomppu.co.kr^
+||m.health.chosun.com^
 
 ! - Kakao, Daum
+||mud-kage.kakao.co.kr^
+||mud-kage.kakaocdn.net^
+||www.kakaocorp.com^
 ||booking-loco.kakao.com^
 ||adserver.rockwell.kakao.com^
 ||ad.kakao.com^
@@ -22,6 +35,7 @@
 ||adclixad.daum.net^
 ||adclix.daum.net^
 ||ad.daum.net^
+@@||videostats.kakao.com^
 
 ! - Google ads
 ||ads.google.com^
@@ -31,33 +45,17 @@
 ||adservice.google.tw^
 ||adservices.google.com^
 ||doubleclick.net^
-||feedads.googleadservices.com^
 ||google-analytics.com^
-||googleads.g.doubleclick.net^
-||googleads2.g.doubleclick.net^
+||*.*.doubleclick.net^
 ||googleadservices.com^
 ||googletagmanager.com^
 ||googletagservices.com^
-||www.googleadservices.com^
 ||www.googletagmanager.com^
 ||www.googletagservices.com^
-||imageads.googleadservices.com^
-||imageads1.googleadservices.com^
-||imageads2.googleadservices.com^
-||imageads3.googleadservices.com^
-||imageads4.googleadservices.com^
-||imageads5.googleadservices.com^
-||imageads6.googleadservices.com^
-||imageads7.googleadservices.com^
-||imageads8.googleadservices.com^
-||imageads9.googleadservices.com^
-||pagead.googlesyndication.com^
-||pagead.l.google.com^
-||pagead2.googleadservices.com^
-||pagead2.googlesyndication.com^
-||partner.googleadservices.com^
-||partnerad.l.google.com^
-||partnerssl.googleadservices.com^
+||*.googleadservices.com^
+||*.googlesyndication.com^
+||pagead.*.google.com^
+||partnerad.*.google.com^
 
 ! - Macarong app
 ||macarong.page.link^
@@ -69,7 +67,6 @@
 ||ppv.afreecatv.com^
 
 ! - Samsung Default Apps
-||adconsent.samsungrs.com^
 ||adconsent.samsungrs.com^
 ||adlc-exchange.toast.com^
 ||analytics.samsungknox.com^
@@ -116,19 +113,12 @@
 ||adcheck.about.co.kr^
 ||open.e.kuaishou.com^
 ||encrypted-tbn1.gstatic.com^
-||ade.googlesyndication.com^
-||www.googleadservices.com^
 ||sell.chutcha.net^
 ||payload.adadapted.com^
 ||ads.adadapted.com^
 ||sdk-bid.exelbid.com^
-||web.acuvue.co.kr^
 ||static.mplad.ahnlab.com^
 ||sspi.adpopcorn.com^
-||soda-api.snow.me^
-||s.ppomppu.co.kr^
-||m.health.chosun.com^
-||log.snow.me^
 ||is.snssdk.com^
 ||funnysocial.co.kr^
 ||cyad1.nate.com^
@@ -139,9 +129,7 @@
 ||adx-exchange.toast.com^
 ||adv.zdnet.co.kr^
 ||adv.imadrep.co.kr^
-||adservice.google.com^
 ||ads.mncmedia.co.kr^
-||adimg.daumcdn.net^
 ||ad89.z00.kr^
 ||ad.phaserep.com^
 ||ad.mediafarm.co.kr^
@@ -149,7 +137,6 @@
 ||ad.adjw.co.kr^
 ||ad-global-rule.kajicam.com^
 ||a1.asiae.co.kr^
-||*.snow.me.akadns.net^
 ||*.site3.co.kr^
 ||*.newsmobile.co.kr^
 ||*.newscj.com^
@@ -157,7 +144,7 @@
 ||*.mobon.net^
 ||*.mediacategory.com^
 ||*.imadrep.co.kr^
-||*.googleadservices.com^
+
 ||*.funnysocial.co.kr^
 ||*.estrongs.com^
 ||*.ctobsnssdk.com^
@@ -179,7 +166,6 @@
 @@||syndication.realsrv.com^
 @@||report.appmetrica.yandex.net^
 @@||outcome-ssp.supersonicads.com^
-@@||videostats.kakao.com^
 @@||s2s.singular.net^
 @@||data.flurry.com^
 @@||beacons.gcp.gvt2.com^
