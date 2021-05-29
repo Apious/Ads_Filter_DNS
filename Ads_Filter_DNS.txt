@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 210528
+! Version: 210529
 
 ! - Snow, Soda Camera
 ! - @@||b6s-api.snow.me^
@@ -17,7 +17,6 @@
 ||m.health.chosun.com^
 
 ! - Kakao, Daum
-||mud-kage.kakao.co.kr^
 ||mud-kage.kakaocdn.net^
 ||www.kakaocorp.com^
 ||booking-loco.kakao.com^
