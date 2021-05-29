@@ -18,7 +18,6 @@
 
 ! - Kakao, Daum
 ||www.kakaocorp.com^
-||booking-loco.kakao.com^
 ||adserver.rockwell.kakao.com^
 ||ad.kakao.com^
 ||adfit.kakao.com^
