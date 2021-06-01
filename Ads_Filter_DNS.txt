@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 210529
+! Version: 210601
 
 ! - Snow, Soda Camera
 ! - @@||b6s-api.snow.me^
@@ -107,6 +107,8 @@
 ||ad.*.naver.com^
 
 ! - 기타
+||mplad.ahnlab.com^
+||static.mplad.ahnlab.com^
 ||adcheck.about.co.kr^
 ||open.e.kuaishou.com^
 ||encrypted-tbn1.gstatic.com^
@@ -114,7 +116,6 @@
 ||payload.adadapted.com^
 ||ads.adadapted.com^
 ||sdk-bid.exelbid.com^
-||static.mplad.ahnlab.com^
 ||sspi.adpopcorn.com^
 ||is.snssdk.com^
 ||funnysocial.co.kr^
@@ -141,7 +142,6 @@
 ||*.mobon.net^
 ||*.mediacategory.com^
 ||*.imadrep.co.kr^
-
 ||*.funnysocial.co.kr^
 ||*.estrongs.com^
 ||*.ctobsnssdk.com^
