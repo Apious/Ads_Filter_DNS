@@ -4,7 +4,11 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 210601
+! Version: 210602
+
+! - 쿠팡
+||img1a.coupangcdn.com^
+||ad-video.coupangcdn.com^
 
 ! - Snow, Soda Camera
 ! - @@||b6s-api.snow.me^
