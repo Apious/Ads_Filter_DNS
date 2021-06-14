@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 210610
+! Version: 210614
 
 ! - 쿠팡
 ||img1a.coupangcdn.com^
@@ -79,6 +79,8 @@
 ||insights-img.samsunghealth.com^
 ||kr-cdn-gpp.mcsvc.samsung.com^
 ||ureca.samsungapps.com^
+@@||*.samsungdm.com^
+@@||*.ospserver.net^
 
 ! - Tmap
 ||starvoice.tmap.co.kr^
