@@ -159,6 +159,7 @@
 @@||nid.naver.com^
 
 ! - 기타
+@@||beacon.shazam.com^
 @@||static.criteo.net^
 @@||rawdata.kr^
 @@||*.president.go.kr^
