@@ -49,9 +49,6 @@
 ||google-analytics.com^
 ||*.*.doubleclick.net^
 ||googleadservices.com^
-||googletagservices.com^
-||www.googletagmanager.com^
-||www.googletagservices.com^
 ||*.googleadservices.com^
 ||*.googlesyndication.com^
 ||pagead.*.google.com^
