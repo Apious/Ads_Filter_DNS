@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 210614
+! Version: 210618
 
 ! - 쿠팡
 ||img1a.coupangcdn.com^
@@ -112,6 +112,7 @@
 ||ad.*.naver.com^
 
 ! - 기타
+||ad.*.skt-jive.com^
 ||mplad.ahnlab.com^
 ||static.mplad.ahnlab.com^
 ||adcheck.about.co.kr^
