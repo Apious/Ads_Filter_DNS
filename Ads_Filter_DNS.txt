@@ -50,7 +50,6 @@
 ||*.*.doubleclick.net^
 ||googleadservices.com^
 ||*.googleadservices.com^
-||*.googlesyndication.com^
 ||pagead.*.google.com^
 ||partnerad.*.google.com^
 
