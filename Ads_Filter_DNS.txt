@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_DNS
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_DNS/issues
-! Version: 210630
+! Version: 210708
 
 ! - 쿠팡
 ||img1a.coupangcdn.com^
@@ -46,7 +46,6 @@
 ||adservice.google.tw^
 ||adservices.google.com^
 ||doubleclick.net^
-||google-analytics.com^
 ||*.*.doubleclick.net^
 ||googleadservices.com^
 ||googleads.g.doubleclick.net^
